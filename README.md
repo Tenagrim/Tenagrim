@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.codewars.com/users/Tenagrim" title="Tenagrim stats">
-    <img src="https://www.codewars.com/users/Tenagrim/badges/large">
+    <img src="https://www.codewars.com/users/Tenagrim/badges/micro">
 </a>
 
 
