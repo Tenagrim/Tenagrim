@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://www.codewars.com/users/Tenagrim/badges/large">
+<img src="https://www.codewars.com/users/Tenagrim/badges/micro">
