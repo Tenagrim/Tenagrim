@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 > 1. [HTTP сервер по стандарту RFC 7230-7235](https://github.com/Tenagrim/http_web_server)
 > 2. [Библиотека стандартных шаблонов (STL)](https://github.com/Tenagrim/bit_of_stl)
 > 3. [Базовый курс по С++](https://github.com/Tenagrim/introduction_to_cpp)
-> 4. [Многопоточность. Задачи об обедающих философах](https://github.com/Tenagrim/PhiloSimulation)
+> 4. [Многопоточность. Задача об обедающих философах](https://github.com/Tenagrim/PhiloSimulation)
 > 5. [Командная(терминальная) оболочка](https://github.com/Tenagrim/unix_shell)
 > 6. [3D игра, технология Raycasting](https://github.com/Tenagrim/RayCasting_game)
 > > <b>C#:</b>
