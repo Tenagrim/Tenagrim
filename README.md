@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 > <b>Мои проекты:</b>
 > > <b>Java:</b>
-> 1. [Game Of Life](https://github.com/Tenagrim/Conway-s_game_of_life)
+> 1. [Game Of Life](https://github.com/Tenagrim/GameOfLife)
 > 2. ["Змейка" на карте высот](https://github.com/Tenagrim/hSnake)
 > > <b>C/C++:</b>
 > 1. [HTTP сервер по стандарту RFC 7230-7235](https://github.com/Tenagrim/http_web_server)
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 > 5. [Командная(терминальная) оболочка](https://github.com/Tenagrim/unix_shell)
 > 6. [3D игра, технология Raycasting](https://github.com/Tenagrim/RayCasting_game)
 > > <b>C#:</b>
-> 1. [Game Of Life](https://github.com/Tenagrim/http_web_server)
+> 1. [Game Of Life](https://github.com/Tenagrim/Conway-s_game_of_life)
 > 2. [Визуализация алгоритмов на графах](https://github.com/Tenagrim/Discr_graph)
 > 3. [Графический редактор](https://github.com/Tenagrim/SIMP)
 > 4. ["Змейка", обучаемая генетическим алгоритмом](https://github.com/Tenagrim/Snake_intelligence)
