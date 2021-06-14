@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 
 > <b>Мои проекты:</b>
 > > <b>Java:</b>
-> 1. [Game Of Life](https://github.com/Tenagrim/GameOfLife)
-> 2. ["Змейка" на карте высот](https://github.com/Tenagrim/hSnake)
+> 1. [Secured REST API на Spring Boot](https://github.com/Tenagrim/boot_book_market)
+> 2. [Game Of Life](https://github.com/Tenagrim/GameOfLife)
+> 3. ["Змейка" на карте высот](https://github.com/Tenagrim/hSnake)
 > > <b>C/C++:</b>
 > 1. [HTTP сервер по стандарту RFC 7230-7235](https://github.com/Tenagrim/http_web_server)
 > 2. [Библиотека стандартных шаблонов (STL)](https://github.com/Tenagrim/bit_of_stl)
