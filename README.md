@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> ## Hi there 👋 , I'm [Dmitriy](https://github.com/Tenagrim) ##
-<br><br>
-[![gshona's 42 stats](https://badge42.herokuapp.com/api/stats/gshona?privacyEmail=true)](https://github.com/Tenagrim)
+<!-- ## Hi there 👋 , I'm [Dmitriy](https://github.com/Tenagrim) ##-->
+<!--<br><br>-->
+<!--[![gshona's 42 stats](https://badge42.herokuapp.com/api/stats/gshona?privacyEmail=true)](https://github.com/Tenagrim)-->
 
 <a href="https://www.codewars.com/users/Tenagrim" title="Tenagrim stats">
     <img src="https://www.codewars.com/users/Tenagrim/badges/large">
