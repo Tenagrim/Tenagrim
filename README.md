@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- ## Hi there 👋 , I'm [Dmitriy](https://github.com/Tenagrim) ##-->
 <!--<br><br>-->
 <!--[![gshona's 42 stats](https://badge42.herokuapp.com/api/stats/gshona?privacyEmail=true)](https://github.com/Tenagrim)-->
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Tenagrim?theme=dark&font=Share%20Tech)<br><br>
 <a href="https://www.codewars.com/users/Tenagrim" title="Tenagrim stats">
     <img src="https://www.codewars.com/users/Tenagrim/badges/large">
 </a><br><br><br>
