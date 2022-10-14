@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 > 3. [Dating app (React + Spark, work in progress)](https://github.com/Tenagrim/another_matching_app)
 > > <b>DevOps:</b>
 > 1. [K3d cluster + ArgoCD](https://github.com/Tenagrim/Argo_cd_in_vagrant_example)
-> 2. [Kubernetes. Кластаризация.](https://github.com/Tenagrim/IntroductionToKubernetes)
+> 2. [Kubernetes. Настройка кластера.](https://github.com/Tenagrim/IntroductionToKubernetes)
 
 <details>
 <summary>Other</summary>
